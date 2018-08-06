@@ -10,6 +10,7 @@ This project was based on a lot of research and inspired in a few other example 
 - [ ] Create an abstraction between UITableViewCell and UITableViewController for better reusability
 - [ ] Add Unit Tests
 - [ ] Add UI Tests
+- [ ] Overall code improvements
 - [ ] Improve UI/UX
 
 
